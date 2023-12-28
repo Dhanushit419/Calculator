@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "MyApp1",
-    "slug": "MyApp1",
+    "slug": "calculator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "a.b"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4a51d38e-2730-4601-882d-cf92bf351678"
+      }
+    },
+    "owner": "dhanushit419"
   }
 }

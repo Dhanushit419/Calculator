@@ -1,0 +1,5 @@
+1-9 and 0     10
+C               1
+Backspace       1
+operators       5
+equal           1
